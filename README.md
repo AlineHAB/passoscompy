@@ -1,6 +1,8 @@
-# passoscompy
-Projeto simples com módulo turtle em Python
+# Atividade de Fundamentos de programção<img align="center" height="30cm" width="30cm" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 
-Trabalho que desenha quatro formas geometricas em módulo turtle.
+Projeto simples com módulo turtle em Python.
 
-A cada dia estou gostando mais de aprender sobre essa linguagem.
+Trabalho consiste em um algoritmo que desenha quatro formas geométricas em módulo turtle, ele pede ao usuário que informe qual forma deseja que seja desenhada na tela. 
+
+
+
