@@ -1,4 +1,4 @@
-#ALINE HENRIQUE ALVES BARROS - 476684 - Ciência da computação
+#ALINE HENRIQUE ALVES BARROS - Ciência da computação
 import turtle
 from math import sqrt
 from math import atan
